@@ -18,7 +18,7 @@
       <section>
         <article>
           <div>
-            <img src="/images/kinsta-logo.png" alt="Article thumbnail" />
+            <img src="/images/kinsta-logo1.png" alt="Article thumbnail" />
           </div>
 
           <h3>Title for the blog</h3>
