@@ -1,6 +1,6 @@
 <?php
 
-namespace AppModels;
+namespace App\Models; // Corrected namespace declaration
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
